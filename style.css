@@ -1,5 +1,5 @@
 body {
   <!-- Background image -->
-  background-image: url("https://instagram.fash1-1.fna.fbcdn.net/t51.2885-15/e35/14052272_614256665423696_1458329891_n.jpg")       
+  background-image: url("background.jpg");
+  background-repeat: repeat-x;
 }
-
