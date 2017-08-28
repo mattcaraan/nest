@@ -1,8 +1,9 @@
 body {
   /*Background image*/
   background-image: url("theboyz.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
-
 h1 {
     color: white;
     text-align: center;
@@ -11,7 +12,7 @@ h2 {
     color: white;
     text-align: center;
   }
-p1 {
+p {
     color: white;
     text-align: center;
   }
