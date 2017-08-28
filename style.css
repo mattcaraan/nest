@@ -2,3 +2,20 @@ body {
   /*Background image*/
   background-image: url("theboyz.jpg");
 }
+
+h1 {
+    color: white;
+    text-align: center;
+  }
+h2 {
+    color: white;
+    /* This is a single-line comment */
+    text-align: center;
+  }
+p1 {
+    color: white;
+    /* This is a single-line comment */
+    text-align: center;
+  }
+  
+
